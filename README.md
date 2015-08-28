@@ -18,6 +18,10 @@ npm install/npm update
 ## Run the local web server
 node app.js
 
+## Install nodemon to avoid restarting everytime
+sudo npm install -g nodemon 
+nodemon app.js
+
 ### URL: http://localhost:9898/
 
 
